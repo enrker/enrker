@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on proyects.
-- 📫 How to reach me in facebook
+
 
 <!---
 enrker/enrker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
